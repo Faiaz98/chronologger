@@ -1,0 +1,5 @@
+2024-01-25T17:18:58.917Z - First log entry
+2024-01-25T17:18:58.918Z - Second log entry
+2024-01-25T17:55:41.191Z [INFO] - This is an info message
+2024-01-25T17:55:41.192Z [WARNING] - This is a warning message
+2024-01-25T17:55:41.192Z [ERROR] - This is an error message
