@@ -1,15 +1,18 @@
 # ChronoLogger
 
+## Overview
+
 ChronoLogger is a time-based logging library for Node.js. It automatically adds timestamps to log entries and provides a way to retrieve logs within a specified time range.
 
 ## Installation
 
 ```bash
 npm install chronologger
+```
 
 # Usage
 
-```````
+```
 const ChronoLogger = require('chronologger');
 
 // Create a new instance of ChronoLogger with a log file path
